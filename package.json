@@ -1,0 +1,28 @@
+{
+  "name": "LEDBlink",
+  "version": "0.0.0",
+  "description": "Pinoccio ledblink project using leo build system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Magaluk <AdamMagaluk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pinoccio.ino": "^0.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AdamMagaluk/pinoccio-LEDBlink.git"
+  },
+  "keywords": [
+    "leo",
+    "pinoccio",
+    "arduino"
+  ],
+  "bugs": {
+    "url": "https://github.com/AdamMagaluk/pinoccio-LEDBlink/issues"
+  },
+  "homepage": "https://github.com/AdamMagaluk/pinoccio-LEDBlink"
+}
